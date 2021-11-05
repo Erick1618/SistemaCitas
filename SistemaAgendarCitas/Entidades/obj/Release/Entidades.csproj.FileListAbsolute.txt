@@ -1,0 +1,6 @@
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\bin\Release\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\bin\Release\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\obj\Release\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Entidades\obj\Release\Entidades.pdb

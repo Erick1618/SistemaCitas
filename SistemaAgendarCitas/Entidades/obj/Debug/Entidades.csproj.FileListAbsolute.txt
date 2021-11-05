@@ -1,0 +1,36 @@
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\bin\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\bin\Debug\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\obj\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Entidades\obj\Debug\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\bin\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\bin\Debug\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\bin\Debug\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\bin\Debug\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Entidades\obj\Debug\Entidades.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\bin\Debug\Entidades.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\bin\Debug\Entidades.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\obj\Debug\Entidades.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Entidades\obj\Debug\Entidades.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\bin\Debug\Entidades.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\bin\Debug\Entidades.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\obj\Debug\Entidades.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Entidades\obj\Debug\Entidades.pdb
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\bin\Debug\Entidades.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\bin\Debug\Entidades.pdb
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\obj\Debug\Entidades.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,10 @@
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Release\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Release\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Release\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Release\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Release\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Release\Negocios.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Release\Negocios.csproj.CopyComplete
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Release\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Release\Negocios.pdb

@@ -1,0 +1,539 @@
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Presentacion.dll.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Presentacion.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Presentacion.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csc.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csc.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csc.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csi.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csi.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\csi.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.AppContext.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Console.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\vbc.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\vbc.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\vbc.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\obj\Debug\Presentacion.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Presentacion\obj\Debug\Presentacion.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Presentacion.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.AppContext.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Console.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.rsp
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Presentacion\bin\DatosSQL.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll.config
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.pdb
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe.config
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.rsp
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe.config
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.rsp
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.AppContext.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Console.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe.config
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.rsp
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\DatosSQL.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Entidades.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Negocios.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Entidades.pdb
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Negocios.pdb
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.dll
+D:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Presentacion.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csc.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\csi.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.AppContext.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Console.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\vbc.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Presentacion\obj\Debug\Presentacion.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.dll.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.AppContext.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Console.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.rsp
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.dll.config
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Presentacion.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.exe
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.exe.config
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csc.rsp
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.exe
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.exe.config
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\csi.rsp
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.AppContext.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Console.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.exe
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.exe.config
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\vbc.rsp
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\DatosSQL.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Entidades.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Negocios.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Entidades.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Negocios.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Presentacion\obj\Debug\Presentacion.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Presentacion.dll.config
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Presentacion.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Presentacion.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csc.exe
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csc.exe.config
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csc.rsp
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csi.exe
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csi.exe.config
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\csi.rsp
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.AppContext.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Console.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\vbc.exe
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\vbc.exe.config
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\vbc.rsp
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\DatosSQL.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Entidades.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Negocios.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Entidades.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Negocios.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\obj\Debug\Presentacion.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\obj\Debug\Presentacion.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\MySql.Data.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Google.Protobuf.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Zstandard.Net.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\K4os.Compression.LZ4.Streams.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\BouncyCastle.Crypto.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Ubiety.Dns.Core.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\Renci.SshNet.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\System.Buffers.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\K4os.Compression.LZ4.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\K4os.Hash.xxHash.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\System.Memory.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\System.Numerics.Vectors.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Presentacion\bin\MySql.Data.xml
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Presentacion.dll.config
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Presentacion.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Presentacion.pdb
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csc.exe
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csc.exe.config
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csc.rsp
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csi.exe
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csi.exe.config
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\csi.rsp
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.AppContext.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Console.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\vbc.exe
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\vbc.exe.config
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\vbc.rsp
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\DatosSQL.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Entidades.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\MySql.Data.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Negocios.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Google.Protobuf.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Zstandard.Net.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\K4os.Compression.LZ4.Streams.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\BouncyCastle.Crypto.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Ubiety.Dns.Core.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Renci.SshNet.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\System.Buffers.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\K4os.Compression.LZ4.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\K4os.Hash.xxHash.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\System.Memory.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\System.Numerics.Vectors.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Entidades.pdb
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Negocios.pdb
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\MySql.Data.xml
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\obj\Debug\Presentacion.dll
+E:\Archivos\Escritorio\Analisis y Diseño de Sistemas\BeautyZone\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,94 @@
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\bin\Debug\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\bin\Debug\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\bin\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\bin\Debug\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\obj\Debug\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone\Negocios\obj\Debug\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\bin\Debug\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\bin\Debug\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\bin\Debug\Entidades.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\bin\Debug\Entidades.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.dll
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.pdb
+D:\Archivos\Escritorio\Ambientes  Progra. visual\BeautyZone _Prueba\Negocios\bin\Debug\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\bin\Debug\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\bin\Debug\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\bin\Debug\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\bin\Debug\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\bin\Debug\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone _Prueba\Negocios\obj\Debug\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Negocios.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\DatosSQL.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Entidades.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Entidades.pdb
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.dll
+E:\Archivos\Escritorio\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Negocios.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Negocios.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\DatosSQL.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Entidades.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\bin\Debug\Entidades.pdb
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.dll
+E:\Archivos\Documentos\5to Semestre\AmbientesProgravisual\BeautyZone\Negocios\obj\Debug\Negocios.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\obj\Debug\Negocios.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\obj\Debug\Negocios.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Negocios.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Negocios.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Entidades.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\MySql.Data.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Google.Protobuf.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Zstandard.Net.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\BouncyCastle.Crypto.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Ubiety.Dns.Core.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Renci.SshNet.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\System.Memory.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\System.Buffers.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\K4os.Compression.LZ4.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\K4os.Hash.xxHash.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\System.Numerics.Vectors.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\Entidades.pdb
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\bin\Debug\MySql.Data.xml
+E:\Archivos\Escritorio\Teoria de Compiladores\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Negocios.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Negocios.pdb
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Entidades.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Google.Protobuf.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Zstandard.Net.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\BouncyCastle.Crypto.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Ubiety.Dns.Core.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Renci.SshNet.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\System.Memory.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\System.Buffers.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\K4os.Compression.LZ4.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\K4os.Hash.xxHash.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\System.Numerics.Vectors.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\Entidades.pdb
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\bin\Debug\MySql.Data.xml
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\obj\Debug\Negocios.dll
+E:\Archivos\Documentos\6to Semestre\Analisis y Diseño de Sistemas\BeautyZone\Negocios\obj\Debug\Negocios.pdb
