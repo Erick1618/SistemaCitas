@@ -10,4 +10,4 @@
 ![7mo SS](img_sistema/editarPerfil.PNG)
 
 ## Video: Explicacion del sistema
-[![Alt text](https://img.youtube.com/vi/Q2NAKwexDq8&ab/0.jpg)](https://www.youtube.com/watch?v=Q2NAKwexDq8&ab)
+[![Alt text](https://img.youtube.com/vi/Q2NAKwexDq8/0.jpg)](https://www.youtube.com/watch?v=Q2NAKwexDq8)
